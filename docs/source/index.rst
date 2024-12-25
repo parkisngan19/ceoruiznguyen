@@ -1,22 +1,20 @@
-Welcome to Lumache's documentation!
+Ruiz Nguyễn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`CEO Ruiz Nguyễn <https://789bet.cricket/author/Ruiznguyen>`_ là người đứng đầu 789Bet, một trong những nền tảng chơi game trực tuyến uy tín và phát triển mạnh mẽ tại Việt Nam. Với tầm nhìn chiến lược và kinh nghiệm dày dặn trong lĩnh vực giải trí trực tuyến, ông Ruiz Nguyễn đã dẫn dắt 789Bet trở thành thương hiệu hàng đầu, nổi bật với dịch vụ chuyên nghiệp, đa dạng sản phẩm và các chính sách ưu đãi hấp dẫn dành cho người chơi.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Dưới sự lãnh đạo của ông, 789Bet không chỉ xây dựng được lòng tin với hàng triệu khách hàng mà còn tạo dấu ấn với tiêu chí minh bạch, công bằng và an toàn trong mọi hoạt động. Ruiz Nguyễn luôn nhấn mạnh việc đặt trải nghiệm người dùng lên hàng đầu, đảm bảo mỗi khách hàng khi tham gia 789Bet đều được tận hưởng dịch vụ tốt nhất.
 
-.. note::
+Với phong cách lãnh đạo sáng tạo và quyết đoán, ông Ruiz Nguyễn đã đưa 789Bet vươn tầm trở thành một trong những thương hiệu chơi game uy tín số 1 tại khu vực.
 
-   This project is under active development.
+Thông tin liên hệ: 
 
-Contents
---------
+Địa chỉ: 99A Thoại Ngọc Hầu, Hoà Thanh, Tân Phú, Hồ Chí Minh, Việt Nam. 
 
-.. toctree::
+Phone: 0854099860. 
 
-   usage
-   api
+Email: contact@789bet.cricket. 
+
+Website: https://789bet.cricket/author/Ruiznguyen 
+
+#ruiznguyen #ceoruiznguyen #ceoruiznguyen_789bet
